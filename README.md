@@ -1,7 +1,7 @@
 # Rock Paper Scissior Classifier
 App has been deployed in **Heroku** using **mondodb Atlas** database. Link of website is given below:
 
-[Rock Paper Scissors](https://dashboard.heroku.com/apps/rockpaperscissiorclassifier)
+[Rock Paper Scissors](https://rockpaperscissiorclassifier.herokuapp.com/)
 
 In thisproject, we will use a pre-trained MobileNet model to classify hand gestures of Rock, Paper, and Scissors captured by a **webcam**.
 
