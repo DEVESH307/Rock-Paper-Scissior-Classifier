@@ -1,3 +1,9 @@
+# Resume Points
+# Rock Paper Scissor Classifier						      			    	   Aug‘20 
+## Project Objective
+- Designed and implemented a website, uses a pre-trained MobileNet model to classify hand gestures of Rock, Paper, and Scissors captured by a webcam, deployed using Heroku 
+
+
 # Rock Paper Scissior Classifier
 App has been deployed in **Heroku** using **mondodb Atlas** database. Link of website is given below:
 
